@@ -2,7 +2,7 @@
 <br>
 
 - 👯 Ela/Dela - 20 anos
-- 🗺️ Inglês Fluente
+- 🗺️ Falo inglês fluente
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas - 1º periodo
 - 🌱 Formada em Tecnico em Informatica no COTIL - Colégio Tecnico de Limeira
 - 🤔 Apaixonada por Taylor Swift, cachorros e programação
