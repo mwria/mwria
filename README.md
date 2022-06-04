@@ -1,21 +1,19 @@
 ### Hello World! Meu nome é Maria Eduarda👋
+<br>
 
 - 👯 Ela/Dela - 20 anos
 - 🗺️ Inglês Fluente
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas - 1º periodo
 - 🌱 Formada em Tecnico em Informatica no COTIL - Colégio Tecnico de Limeira
 - 🤔 Apaixonada por Taylor Swift, cachorros e programação
-
-<!--
-**mwria/mwria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<div> <img align="right" alt="Maria-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/474542488460460042/982734397952372756/46139_ojy9FZkO.png"> </div>
+<br>
 
 <div align="left">
   <a href="https://github.com/mwria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwria&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-Delphi" height="30" width="" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
-  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" src="hhttps://s8.gifyu.com/images/ezgif.com-gif-makerf6b3fce1fc91ebd2.gif">
+ 
 </div>
   
   ##
