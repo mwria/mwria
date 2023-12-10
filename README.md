@@ -1,9 +1,9 @@
 ### Hello World! Meu nome é Maria Eduarda👋
 <br>
 
-- 👯 Ela/Dela - 20 anos
+- 👯 Ela/Dela - 22 anos
 - 🗺️ Falo inglês avançado e estou estudando espanhol
-- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas - 2º periodo
+- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas - 4º periodo
 - 🌱 Formada em Tecnico em Informatica no COTIL - Colégio Tecnico de Limeira
 - 🤔 Apaixonada por Taylor Swift, cachorros e programação
 
