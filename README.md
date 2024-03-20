@@ -5,7 +5,7 @@
 - 🗺️ Falo inglês avançado e estou estudando espanhol
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas - 4º periodo
 - 🌱 Formada em Tecnico em Informatica no COTIL - Colégio Tecnico de Limeira
-- 🤔 Apaixonada por Taylor Swift, cachorros e programação
+- 🤔 Apaixonada por Stray Kids, cachorros e programação
 
 <br>
 
